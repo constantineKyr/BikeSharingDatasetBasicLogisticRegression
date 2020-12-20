@@ -1,1 +1,1 @@
-# BikeSharingDatasetBasicLogisticRegression
+# BikeSharingDatasetBasicLogisticRegression @NCSR-Demokritos Exercise
